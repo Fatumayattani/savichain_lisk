@@ -9,3 +9,8 @@ In many African markets, the issue of unverified skills and experience leads to 
 ### **Our Mission**
 
 Our mission is to bridge the gap between skills and opportunities by providing a decentralized platform that validates and authenticates professional skills through blockchain technology. **SaviChain** aims to enhance the credibility of African professionals and empower them to connect with global opportunities in a trustworthy environment.
+
+## **Key Features**
+
+### 1. **Decentralized Skill Validation**
+   - Users can create and store digital portfolios containing verified skills, experience, certifications, and achievements. Each skill is validated by credible entities, providing confidence in the authenticity of the information.
