@@ -21,4 +21,6 @@ Our mission is to bridge the gap between skills and opportunities by providing a
 ### 4. **Blockchain-Based Reputation System**
    - A reputation score, based on peer reviews and verified achievements, enhances the reliability of individuals on the platform. Users can build their trust over time, making them more attractive to employers and clients.
 ### 5. **Tokenized Incentives**
-   - Participants are rewarded for completing verified tasks, earning tokens that can be exchanged for further certifications, education, or networking opportunities.      
+   - Participants are rewarded for completing verified tasks, earning tokens that can be exchanged for further certifications, education, or networking opportunities.     
+### 6. **Job Matching and Collaboration**
+   - Employers and clients can post job opportunities and search for candidates based on verified skills. The platform also facilitates collaboration between skilled professionals on blockchain projects.    
