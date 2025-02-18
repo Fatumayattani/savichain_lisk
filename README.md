@@ -19,4 +19,6 @@ Our mission is to bridge the gap between skills and opportunities by providing a
 ### 3. **Skill Marketplace**
    - Professionals and freelancers can list their verified skills on a marketplace, allowing potential employers and clients to discover and hire them for various job roles and projects.   
 ### 4. **Blockchain-Based Reputation System**
-   - A reputation score, based on peer reviews and verified achievements, enhances the reliability of individuals on the platform. Users can build their trust over time, making them more attractive to employers and clients.   
+   - A reputation score, based on peer reviews and verified achievements, enhances the reliability of individuals on the platform. Users can build their trust over time, making them more attractive to employers and clients.
+### 5. **Tokenized Incentives**
+   - Participants are rewarded for completing verified tasks, earning tokens that can be exchanged for further certifications, education, or networking opportunities.      
