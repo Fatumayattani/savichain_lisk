@@ -27,4 +27,10 @@ Our mission is to bridge the gap between skills and opportunities by providing a
 
 ## **The Role of Lisk**
 
-**SaviChain** is built on **Lisk**'s blockchain framework, which allows us to take advantage of Lisk's modular and scalable architecture. With Lisk, we have the flexibility to customize our platform to meet the unique needs of our target audience in Africa, while ensuring that the solution is scalable to accommodate future growth.   
+**SaviChain** is built on **Lisk**'s blockchain framework, which allows us to take advantage of Lisk's modular and scalable architecture. With Lisk, we have the flexibility to customize our platform to meet the unique needs of our target audience in Africa, while ensuring that the solution is scalable to accommodate future growth. 
+
+### **Why Lisk?**
+- **Modularity**: Lisk’s modular framework allows us to tailor the platform’s features according to our needs, from skill verification to reputation scoring.
+- **Scalability**: By utilizing Lisk’s Layer 2 solutions, we can ensure that SaviChain can scale as it grows, offering fast and cost-effective transactions even as user volume increases.
+- **Security**: Blockchain technology provides an immutable, transparent ledger, ensuring that all transactions and skill validations are secure and verifiable.
+- **Developer Support**: Lisk’s strong community and developer tools provide the support needed to build, deploy, and maintain the platform. The AyaHQ x Lisk Incubation Program will further empower our team with the mentorship and resources needed to take the platform to the next level.
