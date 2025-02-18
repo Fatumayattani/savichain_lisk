@@ -44,3 +44,36 @@ The **SaviChain** project aligns with the goals of the AyaHQ x Lisk Incubation P
 4. **Real-World Blockchain Adoption**: By making skill validation accessible and reliable through blockchain, SaviChain aims to show the tangible benefits of decentralized technology in everyday life.
 
 ## **Program Structure and Roadmap**
+
+### **Phase 1: Idea Validation (Weeks 1–5)**
+   - During this phase, we will focus on:
+     - Refining the core concept of skill verification using blockchain.
+     - Conducting user research and gathering feedback from both job seekers and employers.
+     - Initial development of smart contract features for skill validation.
+     - Securing partnerships with educational institutions and employers.
+
+### **Phase 2: Scaling & Go-To-Market (Weeks 6–14)**
+   - Key activities during this phase:
+     - Full platform development, including blockchain integration, smart contracts, and the job matching system.
+     - Beta testing of the platform with select users.
+     - Integration with employers and educational institutions for validation and endorsement of skills.
+     - Launch of the platform with a Demo Day and Pitching to potential investors and partners.
+
+## **Target Audience**
+
+- **Freelancers & Professionals**: Individuals seeking to prove their skills and gain employment opportunities in both local and international markets.
+- **Employers & Clients**: Companies looking for verified, skilled professionals to hire or collaborate with.
+- **Educational Institutions**: Universities and training centers interested in offering verifiable credentials to their graduates.
+- **Government & Public Sector**: Agencies looking for ways to implement transparent and verifiable skills certification systems.
+
+## **Potential Impact**
+
+- **Improved Trust**: By providing a transparent and decentralized system for skill validation, SaviChain helps eliminate the issue of resume fraud, which is common in many African job markets.
+- **Greater Access to Opportunities**: Professionals in Africa can now easily present their verified skills to a global audience, opening up new job opportunities both locally and abroad.
+- **Increased Adoption of Blockchain**: SaviChain promotes the practical and real-world use of blockchain, paving the way for future applications of decentralized technologies in various sectors.
+
+## **Conclusion**
+
+**SaviChain** represents a major step toward transforming the way skills are verified and validated in Africa. With the support of the **AyaHQ x Lisk Incubation Program**, we are confident that we can create a platform that not only benefits individual professionals but also contributes to the overall adoption of blockchain technology across the continent.
+
+By offering decentralized, transparent skill validation, SaviChain will play a pivotal role in empowering African professionals and facilitating global connections in the digital economy.
