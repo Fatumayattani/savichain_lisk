@@ -24,3 +24,7 @@ Our mission is to bridge the gap between skills and opportunities by providing a
    - Participants are rewarded for completing verified tasks, earning tokens that can be exchanged for further certifications, education, or networking opportunities.     
 ### 6. **Job Matching and Collaboration**
    - Employers and clients can post job opportunities and search for candidates based on verified skills. The platform also facilitates collaboration between skilled professionals on blockchain projects.    
+
+## **The Role of Lisk**
+
+**SaviChain** is built on **Lisk**'s blockchain framework, which allows us to take advantage of Lisk's modular and scalable architecture. With Lisk, we have the flexibility to customize our platform to meet the unique needs of our target audience in Africa, while ensuring that the solution is scalable to accommodate future growth.   
