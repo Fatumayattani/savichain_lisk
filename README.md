@@ -16,3 +16,5 @@ Our mission is to bridge the gap between skills and opportunities by providing a
    - Users can create and store digital portfolios containing verified skills, experience, certifications, and achievements. Each skill is validated by credible entities, providing confidence in the authenticity of the information.
 ### 2. **Smart Contract-Based Verification**
    - Using smart contracts, the platform ensures that the validation process is transparent and automated. This reduces the chance of fraud and makes the verification process more efficient for both job seekers and employers.   
+### 3. **Skill Marketplace**
+   - Professionals and freelancers can list their verified skills on a marketplace, allowing potential employers and clients to discover and hire them for various job roles and projects.   
