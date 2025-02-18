@@ -42,3 +42,5 @@ The **SaviChain** project aligns with the goals of the AyaHQ x Lisk Incubation P
 2. **Support African Founders**: Through the Lisk partnership, we aim to provide African founders with the tools, funding, and knowledge needed to scale their projects. **SaviChain** will leverage grants and funding opportunities to grow its infrastructure and reach.
 3. **Global Skill Verification**: The platform allows professionals from Africa to showcase their skills globally, increasing their opportunities for work and partnerships with international organizations.
 4. **Real-World Blockchain Adoption**: By making skill validation accessible and reliable through blockchain, SaviChain aims to show the tangible benefits of decentralized technology in everyday life.
+
+## **Program Structure and Roadmap**
