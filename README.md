@@ -1,0 +1,3 @@
+# **SaviChain**
+
+**SaviChain** is a decentralized blockchain platform designed to verify, validate, and showcase professional skills, creating a trusted ecosystem for employers, employees, and freelancers across Africa. By leveraging Lisk’s blockchain infrastructure, SaviChain aims to bring transparency, efficiency, and accountability to skill validation, empowering individuals to showcase their talents and increasing their opportunities in the global job market.
