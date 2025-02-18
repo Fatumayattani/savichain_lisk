@@ -34,3 +34,11 @@ Our mission is to bridge the gap between skills and opportunities by providing a
 - **Scalability**: By utilizing Lisk’s Layer 2 solutions, we can ensure that SaviChain can scale as it grows, offering fast and cost-effective transactions even as user volume increases.
 - **Security**: Blockchain technology provides an immutable, transparent ledger, ensuring that all transactions and skill validations are secure and verifiable.
 - **Developer Support**: Lisk’s strong community and developer tools provide the support needed to build, deploy, and maintain the platform. The AyaHQ x Lisk Incubation Program will further empower our team with the mentorship and resources needed to take the platform to the next level.
+
+## **Program Objectives**
+
+The **SaviChain** project aligns with the goals of the AyaHQ x Lisk Incubation Program, aiming to:
+1. **Accelerate Web3 Innovation in Africa**: By utilizing blockchain technology, SaviChain is positioned to bring about Web3 adoption in Africa, ensuring that the continent is not left behind in the digital economy.
+2. **Support African Founders**: Through the Lisk partnership, we aim to provide African founders with the tools, funding, and knowledge needed to scale their projects. **SaviChain** will leverage grants and funding opportunities to grow its infrastructure and reach.
+3. **Global Skill Verification**: The platform allows professionals from Africa to showcase their skills globally, increasing their opportunities for work and partnerships with international organizations.
+4. **Real-World Blockchain Adoption**: By making skill validation accessible and reliable through blockchain, SaviChain aims to show the tangible benefits of decentralized technology in everyday life.
